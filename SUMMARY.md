@@ -101,5 +101,5 @@
 * [第098回　猿熟马驯方脱壳 功成行满见真如](di_098_hui_yuan_shu_ma_xun_fang_tuo_ke_gong_cheng_xing_man_jian_zhen_ru.md)
 * [第099回　九九数完魔刬尽 三三行满道归根](di_099_hui_jiu_jiu_shu_wan_mo_chan_jin_san_san_xing_man_dao_gui_gen.md)
 * [第100回　径回东土 五圣成真](di_100_hui_jing_hui_dong_tu_wu_sheng_cheng_zhen.md)
-* 附　 录　陈光蕊赴任逢灾 江流僧复仇报本
+* [附　 录　陈光蕊赴任逢灾 江流僧复仇报本](fu_lu_chen_guang_rui_fu_ren_feng_zai_jiang_liu_seng_fu_chou_bao_ben.md)
 
