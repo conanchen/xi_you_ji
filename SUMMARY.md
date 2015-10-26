@@ -99,7 +99,7 @@
 * 第096回　寇员外喜待高僧 唐长老不贪富贵
 * 第097回　金酬外护遭魔毒 圣显幽魂救本原
 * 第098回　猿熟马驯方脱壳 功成行满见真如
-* 第099回　九九数完魔刬尽 三三行满道归根
+* [第099回　九九数完魔刬尽 三三行满道归根](di_099_hui_jiu_jiu_shu_wan_mo_chan_jin_san_san_xing_man_dao_gui_gen.md)
 * [第100回　径回东土 五圣成真](di_100_hui_jing_hui_dong_tu_wu_sheng_cheng_zhen.md)
 * 附　 录　陈光蕊赴任逢灾 江流僧复仇报本
 
