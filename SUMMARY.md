@@ -98,7 +98,7 @@
 * [第095回　假合真形擒玉兔 真阴归正会灵元](di_095_hui_jia_he_zhen_xing_qin_yu_tu_zhen_yin_gui_zheng_hui_ling_yuan.md)
 * [第096回　寇员外喜待高僧 唐长老不贪富贵](di_096_hui_kou_yuan_wai_xi_dai_gao_seng_tang_chang_lao_bu_tan_fu_gui.md)
 * [第097回　金酬外护遭魔毒 圣显幽魂救本原](di_097_hui_jin_chou_wai_hu_zao_mo_du_sheng_xian_you_hun_jiu_ben_yuan.md)
-* 第098回　猿熟马驯方脱壳 功成行满见真如
+* [第098回　猿熟马驯方脱壳 功成行满见真如](di_098_hui_yuan_shu_ma_xun_fang_tuo_ke_gong_cheng_xing_man_jian_zhen_ru.md)
 * [第099回　九九数完魔刬尽 三三行满道归根](di_099_hui_jiu_jiu_shu_wan_mo_chan_jin_san_san_xing_man_dao_gui_gen.md)
 * [第100回　径回东土 五圣成真](di_100_hui_jing_hui_dong_tu_wu_sheng_cheng_zhen.md)
 * 附　 录　陈光蕊赴任逢灾 江流僧复仇报本
